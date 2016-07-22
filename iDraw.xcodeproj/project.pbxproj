@@ -15,6 +15,9 @@
 		27C922A71D3E7B47006FDF37 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C922A61D3E7B47006FDF37 /* Colors.swift */; };
 		27C922AD1D3EE131006FDF37 /* ColorsCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C922AC1D3EE131006FDF37 /* ColorsCollectionViewController.swift */; };
 		27C922AF1D3EE5BD006FDF37 /* SCLAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C922AE1D3EE5BD006FDF37 /* SCLAlertView.swift */; };
+		27E4A5201D4290EC00270156 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E4A51D1D4290EC00270156 /* LoginViewController.swift */; };
+		27E4A5211D4290EC00270156 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E4A51E1D4290EC00270156 /* SignupViewController.swift */; };
+		27E4A5221D4290EC00270156 /* ResetPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E4A51F1D4290EC00270156 /* ResetPasswordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +31,9 @@
 		27C922A61D3E7B47006FDF37 /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		27C922AC1D3EE131006FDF37 /* ColorsCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorsCollectionViewController.swift; sourceTree = "<group>"; };
 		27C922AE1D3EE5BD006FDF37 /* SCLAlertView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SCLAlertView.swift; sourceTree = "<group>"; };
+		27E4A51D1D4290EC00270156 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		27E4A51E1D4290EC00270156 /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
+		27E4A51F1D4290EC00270156 /* ResetPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResetPasswordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +72,9 @@
 				27C922A61D3E7B47006FDF37 /* Colors.swift */,
 				27C922AE1D3EE5BD006FDF37 /* SCLAlertView.swift */,
 				27C922961D3E7AE6006FDF37 /* Main.storyboard */,
+				27E4A51D1D4290EC00270156 /* LoginViewController.swift */,
+				27E4A51E1D4290EC00270156 /* SignupViewController.swift */,
+				27E4A51F1D4290EC00270156 /* ResetPasswordViewController.swift */,
 				27C922A41D3E7B0E006FDF37 /* Assets.xcassets */,
 				27C9229B1D3E7AE6006FDF37 /* LaunchScreen.storyboard */,
 				27C9229E1D3E7AE6006FDF37 /* Info.plist */,
@@ -144,7 +153,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27E4A5201D4290EC00270156 /* LoginViewController.swift in Sources */,
+				27E4A5211D4290EC00270156 /* SignupViewController.swift in Sources */,
 				27C922AD1D3EE131006FDF37 /* ColorsCollectionViewController.swift in Sources */,
+				27E4A5221D4290EC00270156 /* ResetPasswordViewController.swift in Sources */,
 				27C922951D3E7AE6006FDF37 /* ViewController.swift in Sources */,
 				27C922AF1D3EE5BD006FDF37 /* SCLAlertView.swift in Sources */,
 				27C922A71D3E7B47006FDF37 /* Colors.swift in Sources */,
